@@ -1,6 +1,8 @@
 # Flask Boilerplate 
 
-simple [Flask](http://flask.pocoo.org/) Starter enhanced woth JWT authentication and REST API 
+Simple [Flask](http://flask.pocoo.org/) Starter enhanced woth JWT authentication and REST API 
+
+---
 
 ## Setting up a development environment
 
@@ -14,11 +16,8 @@ simple [Flask](http://flask.pocoo.org/) Starter enhanced woth JWT authentication
 * flask run --port 3500 ( to start on specific port)
 
 ## Support
-
-Actively supported by [AppSeed](https://appseed.us/support)
+Open a [new issue](https://github.com/app-generator/flask-boilerplate/issues/new) here 
+or contact [AppSeed support](https://appseed.us/support) 
 
 ## License
-MIT
-
----
-Provided by [AppSeed](https://appseed.us)
+MIT @ [AppSeed](https://appseed.us)
