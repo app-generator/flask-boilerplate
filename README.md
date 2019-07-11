@@ -1,11 +1,6 @@
-### Flask Starter 
-#### [AppSeed.us](https://www.appseed.us/?ref=github) - Full Stack web apps generator   
+# Flask Boilerplate 
 
-
-## Project Status: 
-
-* Under development, incomplete documentation, active suport
-
+simple [Flask](http://flask.pocoo.org/) Starter enhanced woth JWT authentication and REST API 
 
 ## Setting up a development environment
 
@@ -18,9 +13,12 @@
 * flask run ( app is started on default port 5000 )
 * flask run --port 3500 ( to start on specific port)
 
-## Trouble shooting
+## Support
 
-* Support via @Github or [Facebook Group](https://www.facebook.com/groups/fullstack.apps.generator) 
+Actively supported by [AppSeed](https://appseed.us/support)
 
 ## License
 MIT
+
+---
+Provided by [AppSeed](https://appseed.us
