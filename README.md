@@ -21,4 +21,4 @@ Actively supported by [AppSeed](https://appseed.us/support)
 MIT
 
 ---
-Provided by [AppSeed](https://appseed.us
+Provided by [AppSeed](https://appseed.us)
