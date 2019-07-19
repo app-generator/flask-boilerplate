@@ -10,8 +10,8 @@ Simple [Flask](http://flask.pocoo.org/) Starter enhanced woth JWT authentication
 
 ## Setting up a development environment
 
-* clone repo: `git clone https://github.com/app-generator/flask-starter.git` 
-* change directory to flask-starter
+* clone repo: `git clone https://github.com/app-generator/flask-boilerplate.git` 
+* change directory to flask-boilerplate
 * `pip install -r requirements.txt`
 
 <br />
@@ -35,5 +35,5 @@ MIT @ [AppSeed](https://appseed.us)
 <br />
 
 ---
-[Laravel Boilerplate](https://appseed.us/boilerplate-code/laravel-boilerplate) provided by **AppSeed**
+[Flask Boilerplate](https://appseed.us/boilerplate-code/flask-boilerplate) provided by **AppSeed**
 
