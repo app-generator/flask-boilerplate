@@ -1,6 +1,6 @@
 # [Flask Boilerplate](https://appseed.us/boilerplate-code/flask-boilerplate)
 
-Simple [Flask](http://flask.pocoo.org/) Starter enhanced woth JWT authentication and REST API 
+Simple [Flask](http://flask.pocoo.org/) Starter enhanced with JWT authentication and REST API 
 
 <br />
 
